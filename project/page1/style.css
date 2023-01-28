@@ -1,0 +1,33 @@
+#login{
+    border-style: solid;
+    width: 500px;
+    height: 300px;
+    margin-left: 650px;
+    margin-right: 650px;
+    margin-top: 300px;
+    
+    
+}
+button{
+    text-align: center;
+}
+
+form ul{
+    margin-top: 40px;
+    padding-right: 40px;
+}
+
+form li{
+    margin-top: 10px;
+    list-style:none;
+    text-align: center;
+    
+}
+
+form h1{
+    text-align: center;
+}
+
+form h2{
+    text-align: center;
+}
