@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    background-color: lightblue;
+}
+
+header{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    height: 100px;
+    margin-top: 30px;
+}
+
+#sidenav{
+    width: 200px;
+    margin: 0;
+  padding: 0;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+    
+}
+
+
+a{
+    list-style: none;
+    display: block;
+  color: white;
+  padding: 16px;
+  text-decoration: black;
+  font-weight: bold;
+ 
+    
+}
+
+#entry{
+    height: 800px;
+    width: 1000px;
+    background-color: white;
+    float: right;
+    border-radius: 10px;
+    border-style: solid;
+    margin-right: 600px;
+}
