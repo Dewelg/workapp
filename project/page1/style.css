@@ -1,14 +1,13 @@
-#login{
+#main{
     border-style: solid;
     width: 500px;
     height: 300px;
     margin-left: 650px;
     margin-right: 650px;
     margin-top: 300px;
-    
-    
 }
-button{
+
+#nextpage{
     text-align: center;
 }
 
